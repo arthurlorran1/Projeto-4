@@ -27,7 +27,7 @@ Este projeto tem como objetivo realizar uma análise exploratória dos preços d
 - `README.md`: Documentação principal do projeto.
 
 ## PDF do Projeto
-- [PDF com Instruções e Detalhes do Projeto](Doc/1694464991_SEDadosM4Projetoemgrupopdf)
+- [PDF com Instruções e Detalhes do Projeto](Doc/1694464991_SEDadosM4Projetoemgrupopdf.pdf)
 
 ## Download
 
