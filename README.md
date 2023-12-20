@@ -1,24 +1,18 @@
 # Projeto 4 - Dados para Abastecer o Carro
 
-entrega 29/01
-Link do Trello: https://trello.com/b/BnXV99YU/projeto-4
+**Data de Entrega:** 29/01
+
+**Link do Trello:** [Projeto 4 no Trello](https://trello.com/b/BnXV99YU/projeto-4)
 
 ## Conteúdo do Projeto
 - [Contexto](#contexto)
-- [Requisitos](#requisitos)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Modelo Conceitual](#modelo-conceitual)
-- [Modelo Lógico](#modelo-lógico)
-- [Guia do Projeto](#guia-do-projeto)
-- [Como Executar](#como-executar)
-- [Contribuidores](#contribuidores)
-- [Licença](#licença)
 - [Status](#status)
 - [Download](#download)
 
 ## Contexto
 
-Este projeto tem como objetivo realizar uma análise exploratória dos preços da gasolina e do etanol nos dois últimos meses do ano atual, utilizando dados disponíveis no portal gov.br. Serão exploradas diversas perguntas relacionadas ao comportamento dos preços, médias por estado, municípios com os menores e maiores preços, correlações entre preços e regiões, além de outras questões adicionais.
+Este projeto visa realizar uma análise exploratória dos preços da gasolina e do etanol nos dois últimos meses do ano atual, utilizando dados disponíveis no portal gov.br. Serão exploradas diversas perguntas relacionadas ao comportamento dos preços, médias por estado, municípios com os menores e maiores preços, correlações entre preços e regiões, além de outras questões adicionais.
 
 ## Estrutura do Projeto
 
@@ -34,7 +28,6 @@ Este projeto tem como objetivo realizar uma análise exploratória dos preços d
 
 [![Download ZIP](https://img.shields.io/badge/Download_-ZIP-green?style=for-the-badge&logo=github)](https://github.com/NewKanvas/Projeto-4/archive/main.zip)
 
-
 ## Execução do Projeto
 
 1. **Coleta de Dados**:
@@ -45,13 +38,13 @@ Este projeto tem como objetivo realizar uma análise exploratória dos preços d
 
 4. **Apresentação**:
 
-
 ## Integrantes
 - [Cássio Ramos](https://github.com/NewKanvas)
 - [Hudson Cesar](link)
 - [Arthur Lorran](link)
 - [Xavier Flor](link)
 - [Drielle Almeida](link)
+
 ---
 
 ## Resultados e Insights
@@ -68,4 +61,5 @@ Este projeto tem como objetivo realizar uma análise exploratória dos preços d
 ![Watchers](https://img.shields.io/github/watchers/NewKanvas/Projeto-4?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/NewKanvas/Projeto-4?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/NewKanvas/Projeto-4?style=for-the-badge)
+
 ---
