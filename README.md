@@ -43,7 +43,7 @@ Este projeto visa realizar uma análise exploratória dos preços da gasolina e 
 - [Hudson Cesar](link)
 - [Arthur Lorran](link)
 - [Xavier Flor](link)
-- [Drielle Almeida](link)
+- [Drielli Almeida](link)
 
 ---
 
