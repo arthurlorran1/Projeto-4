@@ -125,19 +125,19 @@ Por outro lado, o município com o maior preço para a gasolina foi **Tefé AM**
 
 11. **Qual é o combustível mais consumido no Brasil nos últimos dois meses?**
 
-![BandeiraXEtanol](Doc\Images\11.png)
+![BandeiraXEtanol](Doc\Images\imagem11.png)
 
 A gasolina continua sendo a preferência de mais de 54% dos consumidores brasileiros, mesmo com o etanol sendo, em média, 32% mais barato. Isso sugere que outros fatores, como a percepção de desempenho e a disponibilidade de postos de abastecimento, também podem influenciar na escolha do combustível.
 
 12. **Os dados dos conjuntos 'etanol' e 'gasolina' apresentam valores atípicos (outliers)? Se sim, verifiquem, se interferem na média do valor nacional?**
 
-![BandeiraXEtanol](Doc\Images\12.png)
+![BandeiraXEtanol](Doc\Images\imagem12.png)
 
 Para detectar outliers, inicialmente plotamos um gráfico de boxplot para cada combustível. Os gráficos mostraram outliers em ambos os combustíveis, mas com diferenças significativas.
 
 No gráfico do etanol, os outliers, total de 339, estavam presentes apenas na parte superior. No gráfico da gasolina, os outliers, total de 1107, estavam presentes nas extremidades inferior e superior.
 
-![BandeiraXEtanol](Doc\Images\122.png)
+![BandeiraXEtanol](Doc\Images\imagem122.png)
 
 Removemos os outliers usando um código de filtragem.Como não tínhamos outros indicadores, como o total de litros consumidos, que poderiam nos ajudar a avaliar a precisão dos dados, concluímos que a redução no etanol após a remoção dos outliers foi insignificante, de menos de 0,006% para o etanol de aumento. O mesmo aconteceu com a gasolina, que apresentou uma redução de 0,001%.
 
@@ -146,7 +146,7 @@ Portanto, a remoção dos outliers não ipactam diretamente nos valores médios 
 
 13. **Quais as 5 Bandeiras que tiveram os melhores resultados  em abastecimento no Município do Rio de Janeiro nos dois últimos meses?**
 
-![BandeiraXEtanol](Doc\Images\13.png)
+![BandeiraXEtanol](Doc\Images\imagem13.png)
 
 Após uma análise dos resultados obtidos por diferentes bandeiras, foi possível identificar quais foram as que se destacaram. As bandeiras com melhores resultados foram as seguintes:
 
