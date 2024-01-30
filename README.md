@@ -116,11 +116,17 @@ Por outro lado, o município com o maior preço para a gasolina foi **Tefé AM**
    - A região que possui o menor valor médio do etanol é a região **Sudeste (SE)**, com um valor médio de **R$3,57** por litro.
 
 ---
-### **Bandeira X Gasolina**
-![BandeiraXGasolina](Doc/Images/BandeiraXValordeVendaGasolina.png)
+***O resto do graficos de correlação estão dentro do notebook***
+### **Sudoeste Bandeira X Gasolina **
+![BandeiraXGasolina](Doc/Images/BandeiraXValorSEG.png)
 
-### **Bandeira X Etanol**
-![BandeiraXEtanol](Doc/Images/BandeiraXValordeVendaEtanol.png)
+### **Sudoeste Bandeira X Etanol **
+![BandeiraXEtanol](Doc/Images/BandeiraXValorSEE.png)
+
+***O resto do graficos de correlação estão dentro do notebook***
+
+---
+
 ### Perguntas Adicionais
 
 11. **Qual é o combustível mais consumido no Brasil nos últimos dois meses?**
@@ -166,6 +172,8 @@ Após uma análise dos resultados obtidos por diferentes bandeiras, foi possíve
 [![Xavier Flor](https://img.shields.io/badge/Xavier_Flor-green?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 [![Drielli Almeida](https://img.shields.io/badge/Drielli_Almeida-yellow?style=for-the-badge&logo=github)](https://github.com/dria99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drielli-ao/)
+
+[![Hernandi Assis](https://img.shields.io/badge/Hernandi_Assis-orange?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 [![Trello](https://img.shields.io/badge/Trello-purple?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/BnXV99YU/projeto-4)
 
