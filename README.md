@@ -76,6 +76,12 @@ df['Valor de Venda'] = df['Valor de Venda'].str.replace(',', '.').astype(float) 
 - Média Mensal da Gasolina: R$5,67
 - Média Mensal do Etanol: R$3,83
 
+### **Conclusão da Análise**:
+
+Constatamos que houve oscilações de valores.
+As maiores oscilações foram no valor do etanol. Sendo que o maior pico foi no valor da gasolina, na semana do Natal.
+Verificamos também que os maiores preços tanto do Etanol, quanto da gasolina foram na região norte do país.
+Na média geral, houve uma queda na média dos preços.
 
 ---
 ![Média por Estado](Doc/Images/MediaEstadooutput.png)
@@ -114,7 +120,7 @@ Por outro lado, o município com o maior preço para a gasolina foi **Tefé AM**
 
 8. **Qual a região que possui o menor valor médio do etanol?**
    - A região que possui o menor valor médio do etanol é a região **Sudeste (SE)**, com um valor médio de **R$3,57** por litro.
-
+   
 ---
 ***O resto do graficos de correlação estão dentro do notebook***
 ### **Sudoeste Bandeira X Gasolina **
