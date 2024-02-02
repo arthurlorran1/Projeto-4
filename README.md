@@ -73,8 +73,8 @@ df['Valor de Venda'] = df['Valor de Venda'].str.replace(',', '.').astype(float) 
 
 ![Média Mensal](Doc/Images/outputMediaMensal.png)
 
-- Média Mensal da Gasolina: R$5,67
-- Média Mensal do Etanol: R$3,83
+- Média Bimestral da Gasolina: R$5,67
+- Média Bimestral do Etanol: R$3,83
 
 
 ---
