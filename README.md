@@ -1,5 +1,6 @@
-Entendi! Vamos integrar essas perguntas extras ao seu README:
-
+<h1 align="center">
+ <img src="Doc/Images/logo.png" />
+</h1>
 ---
 
 # Projeto 4 - Análise de Preços de Combustíveis
