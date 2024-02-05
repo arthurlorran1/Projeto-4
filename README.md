@@ -124,10 +124,10 @@ Por outro lado, o município com o maior preço para a gasolina foi **Tefé AM**
    
 ---
 ***O resto do graficos de correlação estão dentro do notebook***
-### **Sudoeste Bandeira X Gasolina **
+### **Sudeste Bandeira X Gasolina **
 ![BandeiraXGasolina](Doc/Images/BandeiraXValorSEG.png)
 
-### **Sudoeste Bandeira X Etanol **
+### **Sudeste Bandeira X Etanol **
 ![BandeiraXEtanol](Doc/Images/BandeiraXValorSEE.png)
 
 ***O resto do graficos de correlação estão dentro do notebook***
