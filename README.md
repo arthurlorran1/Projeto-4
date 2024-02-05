@@ -121,12 +121,14 @@ Por outro lado, o município com o maior preço para a gasolina foi **Tefé AM**
 
 8. **Qual a região que possui o menor valor médio do etanol?**
    - A região que possui o menor valor médio do etanol é a região **Sudeste (SE)**, com um valor médio de **R$3,57** por litro.
-   
----
+9. **Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?**   
+   - 
 ***O resto do graficos de correlação estão dentro do notebook***
 ### **Sudeste Bandeira X Gasolina **
 ![BandeiraXGasolina](Doc/Images/BandeiraXValorSEG.png)
 
+10. **Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele?**
+    - Houve uma correlação nos valores dos postos Ypiranga, Raizen e Vibra.
 ### **Sudeste Bandeira X Etanol **
 ![BandeiraXEtanol](Doc/Images/BandeiraXValorSEE.png)
 
@@ -137,7 +139,7 @@ Por outro lado, o município com o maior preço para a gasolina foi **Tefé AM**
 ### Perguntas Adicionais
 
 11. **Qual é o combustível mais consumido no Brasil nos últimos dois meses?**
-
+    
 ![BandeiraXEtanol](Doc/Images/imagem11.png)
 
 A gasolina continua sendo a preferência de mais de 54% dos consumidores brasileiros, mesmo com o etanol sendo, em média, 32% mais barato. Isso sugere que outros fatores, como a percepção de desempenho e a disponibilidade de postos de abastecimento, também podem influenciar na escolha do combustível.
